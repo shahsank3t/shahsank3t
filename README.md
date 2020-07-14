@@ -4,7 +4,7 @@ I am Sanket. Thanks for dropping by! I am a JavaScript evangelist and like to co
 - 🌱 I’m currently learning about Service-based IT Industry and Scaling a company with quality.
 - 👯 I’m looking to collaborate on Tech Entrepreneurship.
 - 🤔 I’m looking for help with Remote Hiring & Test Automation.
-- 📚 I'm currently reading about Design Systems & Design Patterns.
+- 📚 I'm currently reading about System Design & Design Patterns.
 - 💬 Ask me about JavaScript, UI/UX & Building a company from scratch.
 - 📫 How to reach me: <a href="https://twitter.com/shahsank3t"><img src="https://img.shields.io/twitter/follow/shahsank3t?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/shahsank3t"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
