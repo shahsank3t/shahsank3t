@@ -11,3 +11,5 @@ I am Sanket. Thanks for dropping by! I am a JavaScript evangelist and like to co
   <a href="https://github.com/shahsank3t"><img src="https://img.shields.io/github/followers/shahsank3t.svg?label=GitHub&style=social" alt="GitHub"></a>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Gonna build something that can turn on/off all electrical appliances with a blink of an eye 🤓
+
+<img src="https://github-readme-stats.vercel.app/api?username=shahsank3t">
