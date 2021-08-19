@@ -2,6 +2,7 @@
 I am Sanket. Thanks for dropping by! I am a JavaScript evangelist and like to code and automate things. I founded <a href="https://deuexsolutions.com/">Deuex Solutions</a> with the sole vision of Designing, Developing & Delivering first class web & mobile applications. Some technologies I enjoy working with include ReactJS, VueJS, Jamstack (JavaScript, APIs + Markup), react-native & Flutter.
 
 - 🌱 I’m currently learning about Service-based IT Industry and Scaling a company with quality.
+- 👨🏻‍💻 Contributing to <a href="https://open-metadata.org/">OpenMetadata</a> and <a href="https://pinot.apache.org/">Apache Pinot</a> in open source community.
 - 👯 I’m looking to collaborate on Tech Entrepreneurship.
 - 🤔 I’m looking for help with Remote Hiring & Test Automation.
 - 📚 I'm currently reading about System Design & Design Patterns.
